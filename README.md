@@ -4,5 +4,5 @@
 - 🌱 I’m currently improving my algorithm problem solving ability
 - 👯 I’m looking for a full-time software development position
 - 📫 How to reach me: adrien@adrientremblay.com
-- 🏃 In my free time, I run & climb
+- 🏃 In my free time, I run & rock climb
 - 🖥️ For more about me, check out my personal site: https://www.adrientremblay.com
