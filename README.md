@@ -1,8 +1,7 @@
 ### Hi i'm Adrien 👋
 
-- 🔭 I’m currently working on https://github.com/adrientremblay/RayCaster
-- 🌱 I’m currently improving my algorithm problem solving ability
-- 👯 I’m looking for a full-time software development position
+- 🔭 I’m currently working on a super secret Godot game project
+- 🌱 I’m currently improving my game dev skills
 - 📫 How to reach me: adrien@adrientremblay.com
-- 🧗 In my free time, I run & rock climb
+- 🧗 In my free time, I run, read & code
 - 🖥️ For more about me, check out my personal site: https://www.adrientremblay.com
