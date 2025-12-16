@@ -2,6 +2,7 @@
 
 A better place to learn about me is my [personal website](https://adrientremblay.com)
 
+<!--
 ## Websites I built
 - [jaisoifmontreal.com](https://jaisoifmontreal.com)
   - An interactive website that displays public water fountains in Montreal Canada on a Map.
@@ -11,3 +12,4 @@ A better place to learn about me is my [personal website](https://adrientremblay
 
 ## Games I've made
 TODO
+-->
